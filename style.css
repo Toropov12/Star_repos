@@ -1,0 +1,17 @@
+.beleberda{
+    font-family: fantasy;
+    color: gold;
+    text-align: center;
+    text-shadow: 1px 1px 2px black;
+}
+.post_skript{
+    text-align: center;
+    font-style: italic;
+    margin-top: 24px;
+    text-shadow: 3px 3px 4px darkgreen;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
